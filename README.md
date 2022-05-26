@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Julian Dallmeier 
-- 🌱 I’m currently a Neuroscience PhD candidate at the University of Miami Miller School of Medicine
+- 🌱 I’m currently a Computational Neuroscience PhD candidate at the University of Miami Miller School of Medicine
 - 📫 How to reach me: ddallmeier@gmail.com
 
 <!---
