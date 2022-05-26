@@ -1,4 +1,4 @@
-# Julian Dallmeier - Computational Neuroscientist and Data Scientist 
+# Julian Dallmeier - Computational Neuroscientist & Data Scientist 
 
 ## About me 
 - 👋 Hi, I’m Julian Dallmeier 
@@ -16,7 +16,6 @@
 
 ## Courses & Certificates
 - [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/AGRT2DL8M4Q6) (May 2019 - University of Michigan - Kevyn Collins-Thompson - Coursera)
-
 
 ## Contact info
 - E-mail: ddallmeier@gmail.com
