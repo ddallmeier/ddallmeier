@@ -7,12 +7,15 @@
 ## Table of Contents 
 - [About me](#About-me)
 - [Contact info](#Contact-info)
+- [Projects](#Projects)
+- [Courses & Certificates](#Courses-&-Certificates)
 
 ## Projects
 - IDSC Fellows Program [Launch Event](https://idsc.miami.edu/idsc-fellows-capstone-2022/)
 - Stock Samuri (in progress)
 
-
+## Courses & Certificates
+- [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/AGRT2DL8M4Q6) (May 2019) (University of Michigan - Kevyn Collins-Thompson - Coursera)
 
 
 ## Contact info
