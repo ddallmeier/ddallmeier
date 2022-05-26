@@ -4,17 +4,18 @@
 - 👋 Hi, I’m Julian Dallmeier 
 - 🌱 I’m currently a Computational Neuroscience PhD candidate at the University of Miami Miller School of Medicine
 
-
 ## Table of Contents 
-- [About](#About-me)
-- [Contact](#Contact-me)
+- [About me](#About-me)
+- [Contact info](#Contact-info)
+
+## Projects
+- IDSC Fellows Program [Launch Event](https://idsc.miami.edu/idsc-fellows-capstone-2022/)
+- Stock Samuri (in progress)
 
 
 
 
-
-
-## Contact me
+## Contact info
 - E-mail: ddallmeier@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/juliandallmeier/)
 
