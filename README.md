@@ -6,8 +6,8 @@
 
 
 ## Table of Contents 
-- [About](#About me)
-- [Contact](#Contact me)
+- [About](#About-me)
+- [Contact](#Contact-me)
 
 
 
