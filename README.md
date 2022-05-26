@@ -15,7 +15,7 @@
 - Stock Samuri (in progress)
 
 ## Courses & Certificates
-- [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/AGRT2DL8M4Q6) (May 2019) (University of Michigan - Kevyn Collins-Thompson - Coursera)
+- [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/AGRT2DL8M4Q6) (May 2019 - University of Michigan - Kevyn Collins-Thompson - Coursera)
 
 
 ## Contact info
