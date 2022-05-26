@@ -8,7 +8,7 @@
 - [About me](#About-me)
 - [Contact info](#Contact-info)
 - [Projects](#Projects)
-- [Courses & Certificates](#Courses-&-Certificates)
+- [Courses & Certificates](#Courses--Certificates)
 
 ## Projects
 - IDSC Fellows Program [Launch Event](https://idsc.miami.edu/idsc-fellows-capstone-2022/)
