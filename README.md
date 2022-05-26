@@ -5,6 +5,13 @@
 - 🌱 I’m currently a Computational Neuroscience PhD candidate at the University of Miami Miller School of Medicine
 
 
+## Table of Contents 
+- [About](#About me)
+- [Contact](#Contact me)
+
+
+
+
 
 
 ## Contact me
