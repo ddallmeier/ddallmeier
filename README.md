@@ -8,12 +8,14 @@
 - [About me](#About-me)
 - [Contact info](#Contact-info)
 - [Projects](#Projects)
+	+ [Data Science and Machine Learning](#Data-Science--Machine-Learning)
+	+ [App Development & Data Science](#App-Development--Data-Science)
 - [Courses & Certificates](#Courses--Certificates)
 
 ## Projects
 A selection of projects. 
 
-### Data Science and Machine Learning
+### Data Science & Machine Learning
 | Project  | Description | Implementation | Dataset | Date |
 | :---: | :---: | :---: | :---: | :---: |
 | IDSC Fellowship | Utilization of supervised and unsupervised machine learning for Alzheimers Disease research. [Launch Event](https://idsc.miami.edu/idsc-fellows-capstone-2022/) | [Python](https://github.com/ddallmeier/IDSC-Fellowship-2022/blob/main/IDSC_Full_Presentation.pdf) | Neuropathology dataset | 05/2022 |
