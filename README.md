@@ -11,13 +11,17 @@
 - [Courses & Certificates](#Courses--Certificates)
 
 ## Projects
-- IDSC Fellows Program [Launch Event](https://idsc.miami.edu/idsc-fellows-capstone-2022/)
 - Stock Samuri (in progress)
 
 ### Data Science and Machine Learning
-| Algorithm  | Description | Implementation | Dataset | Date |
+| Project  | Description | Implementation | Dataset | Date |
 | :---: | :---: | :---: | :---: | :---: |
-| IDSC Fellowship | Utilization of supervised and unsupervised learning for Alzheimers Disease research | Python | Neuropathology dataset | 05/2022 |
+| IDSC Fellowship | Utilization of supervised and unsupervised machine learning for Alzheimers Disease research. [Launch Event](https://idsc.miami.edu/idsc-fellows-capstone-2022/) | Python | Neuropathology dataset | 05/2022 |
+
+### App Development & Data Science
+| Project  | Description | Implementation | Dataset | Date |
+| :---: | :---: | :---: | :---: | :---: |
+| Digital Biomarker Generation and Analysis | Developed an app to record stimulus and self paced movements and performed pattern analysis to generate digital biomarkers for Parkinson's disease. | Java & Matlab | app generated data | 06/2018 |
 
 ## Courses & Certificates
 - [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/AGRT2DL8M4Q6) (May 2019 - University of Michigan - Kevyn Collins-Thompson - Coursera)
