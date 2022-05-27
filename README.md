@@ -14,6 +14,11 @@
 - IDSC Fellows Program [Launch Event](https://idsc.miami.edu/idsc-fellows-capstone-2022/)
 - Stock Samuri (in progress)
 
+### Data Science and Machine Learning
+| Algorithm  | Description | Implementation | Dataset | Date |
+| :---: | :---: | :---: | :---: | :---: |
+| IDSC Fellowship | Utilization of supervised and unsupervised learning for Alzheimers Disease research | Python | Neuropathology dataset | 05/2022 |
+
 ## Courses & Certificates
 - [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/AGRT2DL8M4Q6) (May 2019 - University of Michigan - Kevyn Collins-Thompson - Coursera)
 
