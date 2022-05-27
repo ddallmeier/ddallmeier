@@ -6,11 +6,11 @@
 
 ## Table of Contents 
 - [About me](#About-me)
-- [Contact info](#Contact-info)
 - [Projects](#Projects)
 	+ [Data Science and Machine Learning](#Data-Science--Machine-Learning)
 	+ [App Development](#App-Development)
 - [Courses & Certificates](#Courses--Certificates)
+- [Contact info](#Contact-info)
 
 ## Projects
 A selection of projects. 
