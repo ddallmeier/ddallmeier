@@ -9,7 +9,7 @@
 - [Contact info](#Contact-info)
 - [Projects](#Projects)
 	+ [Data Science and Machine Learning](#Data-Science--Machine-Learning)
-	+ [App Development & Data Science](#App-Development--Data-Science)
+	+ [App Development](#App-Development)
 - [Courses & Certificates](#Courses--Certificates)
 
 ## Projects
@@ -21,7 +21,7 @@ A selection of projects.
 | IDSC Fellowship | Utilization of supervised and unsupervised machine learning for Alzheimers Disease research. [Launch Event](https://idsc.miami.edu/idsc-fellows-capstone-2022/) | [Python](https://github.com/ddallmeier/IDSC-Fellowship-2022/blob/main/IDSC_Full_Presentation.pdf) | Neuropathology dataset | 05/2022 |
 | Stock Samuri | Stock assessment. IN PROGRESS | Python | Time series stock data | TBA |
 
-### App Development & Data Science
+### App Development
 | Project  | Description | Implementation | Dataset | Date |
 | :---: | :---: | :---: | :---: | :---: |
 | Digital Biomarker Generation and Analysis | Developed an app to record stimulus and self paced movements and performed pattern analysis to generate digital biomarkers for Parkinson's disease. | [Java](https://github.com/ddallmeier/Digital-Biomarkers/tree/main/src) & Matlab | App generated data | 06/2018 |
