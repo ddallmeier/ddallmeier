@@ -17,7 +17,7 @@ A selection of projects.
 | Project  | Description | Implementation | Dataset | Date |
 | :---: | :---: | :---: | :---: | :---: |
 | IDSC Fellowship | Utilization of supervised and unsupervised machine learning for Alzheimers Disease research. [Launch Event](https://idsc.miami.edu/idsc-fellows-capstone-2022/) | [Python](https://github.com/ddallmeier/IDSC-Fellowship-2022/blob/main/IDSC_Full_Presentation.pdf) | Neuropathology dataset | 05/2022 |
-| Stock Samuri | Stock assessment. IN PROGRESS | Python | Time series stock data | 2022 |
+| Stock Samuri | Stock assessment. IN PROGRESS | Python | Time series stock data | TBA |
 
 ### App Development & Data Science
 | Project  | Description | Implementation | Dataset | Date |
