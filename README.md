@@ -20,6 +20,7 @@ A selection of projects.
 | :---: | :---: | :---: | :---: | :---: |
 | IDSC Fellowship | Utilization of supervised and unsupervised machine learning for Alzheimer's Disease research. [Launch Event](https://idsc.miami.edu/idsc-fellows-capstone-2022/) | [Python](https://github.com/ddallmeier/IDSC-Fellowship-2022/blob/main/IDSC_Full_Presentation.pdf) | Neuropathology dataset | 05/2022 |
 | Stock Samuri | Stock assessment. IN PROGRESS | Python | Time series stock data | TBA |
+| Blood Biomarker Assessment | Using dimensionality reduction and machine learning to determine the importanace of blood biomarkers following traumatic brain injury. | [Python](https://github.com/ddallmeier/TBI-Blood-Biomarkers/blob/main/TBI_Biomarker.ipynb) | Blood Antibody dataset | 02/2019 |
 
 ### App Development
 | Project  | Description | Implementation | Dataset | Date |
