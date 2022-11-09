@@ -24,7 +24,7 @@ A selection of projects.
 ### Data Visualization
 | Project  | Description | Implementation | Dataset | Date |
 | :---: | :---: | :---: | :---: | :---: |
-| Stock Samurai | Developed a WebApp to visualize stock market data. Includes sustainability measures, stock charts with bollinger bands, and investment bank recommendations. | [Python, HTML, Markdown]() | Stock Financial data | 11/2022 |
+| Stock Samurai | Developed a WebApp to visualize stock market data. Includes sustainability measures, stock charts with bollinger bands, and investment bank recommendations. | [Python, HTML, Markdown](https://github.com/ddallmeier/stockSamurai) | Stock Financial data | 11/2022 |
 
 ### App Development
 | Project  | Description | Implementation | Dataset | Date |
