@@ -27,6 +27,7 @@ A selection of projects.
 | Digital Biomarker Generation and Analysis | Developed an app to record stimulus and self paced movements and performed pattern analysis to generate digital biomarkers for Parkinson's disease. | [Java](https://github.com/ddallmeier/Digital-Biomarkers/tree/main/src) & Matlab | App generated data | 06/2018 |
 
 ## Courses & Certificates
+- [Software Carpentry Instructor](https://tibbben.github.io/2022-10-27-UM-Scientific-Computing-Python/) (Instructor for python, Bash, git - Certification acquired November 2022)
 - [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/AGRT2DL8M4Q6) (May 2019 - University of Michigan - Kevyn Collins-Thompson - Coursera)
 
 ## Contact info
