@@ -8,6 +8,7 @@
 - [About me](#About-me)
 - [Projects](#Projects)
 	+ [Data Science and Machine Learning](#Data-Science--Machine-Learning)
+	+ [Data Visualization](#Data-Visualization)
 	+ [App Development](#App-Development)
 - [Courses & Certificates](#Courses--Certificates)
 - [Contact info](#Contact-info)
