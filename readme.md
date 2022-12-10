@@ -11,13 +11,12 @@
 - [Contact info](#Contact-info)
 
 ## About me 
-- 👋 Hi, I’m Julian Dallmeier 
 
 I am a computational neuroscientist with a passion for using data science techniques to study the brain and its diseases. I have experience in Python, R, and statistics, and I am always looking for new challenges and opportunities to apply my skills.
 
 ## My Skills
 
-- **Python**: I have experience in using Python for data analysis, machine learning, and scientific computing. I am proficient in libraries such as NumPy, Pandas, and Scikit-learn.
+- **Python**: I have experience in using Python for data analysis, machine learning, and scientific computing. I am proficient in libraries such as NumPy, Pandas, Tensorflow, and Scikit-learn.
 - **R**: I have experience in using R for data analysis, visualization, and statistical modeling. I am proficient in packages such as ggplot2, dplyr, and lme4.
 - **Statistics**: I have a strong background in statistics, with a focus on statistical modeling, hypothesis testing, and data analysis. I have experience in using statistical methods for neuroscience research.
 
